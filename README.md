@@ -1,36 +1,83 @@
-# **SHIRROZY**  
-*Access Denied...*  
-
-> **404 - USER NOT FOUND**  
-> ***This profile has been compromised.***  
-> _Data is corrupted. Proceed with caution._
-
-## SYSTEM STATUS:  
-⚠️ **Warning: Unauthorized Access Detected**  
-🔴 **Critical Error:** Files are being overwritten.  
-⛔ **Action Required:** Rebuild protocol in progress.  
+<div align="center">
+  <!-- Animated heading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4DA6&center=true&vCenter=true&repeat=false&width=500&lines=Konnichiwa%2C+I%27m+Shirro!;Anime+%E2%99%A5%EF%B8%8F+Coding+%F0%9F%92%BB+Linux;Welcome+to+my+GitHub!" alt="Typing Banner" />
+</div>
 
 ---
 
-### **GITHUB ACTIVITY:**
+## A B O U T  M E
 
-💻 _PROJECTS_  
-- *[COMING SOON] - Data Lost in Transmission*  
-<!---
-- *[Insert Project Name] - Unstable Code, Proceed Anyway*  
-- *[Insert Project Name] - Encryption Failed*
---->
+<img align="left" src="oc/front body.png" width="276" alt="Shirro OC" />
 
-🖥️ **Repositories:**  
-- **[COMING SOON]**  
-<!---
-- **[[link to repository]]**
---->
+```lua
+local Shirro = {
+  alias        = "Shirro",
+  pronouns     = "he/him",
+  contact      = {
+    discord  = "shirroz",
+    matrix   = "@shiro:matrix.subversion.life",
+    telegram = "@Dynamic155"
+  },
+  coding       = {
+    languages = { "Lua", "Python", "Batch", "Bash" },
+    tools     = { "git", "neovim", "docker" },
+    os        = { "Arch", "Debian", "Ubuntu", "Windows" }
+  },
+  fandoms      = {
+    anime  = { "No Game No Life", "Nekopara", "Charlotte" },
+    manga  = { "Chainsawman", "Tokyo Ghoul" }
+  },
+  playlists    = {
+    "I'll Sleep When I'm Dead – NightcoreMaker",
+    "The Zombie Song (Nightcore) – Erenzy, vnti",
+    "Copy – Robopup",
+    "NASTYWERKKKK! – femtanyl"
+  },
+  games        = { "Valorant", "Counter‑Strike 2", "Wuthering Waves", "AI Limit" }
+}
+```
 
-🕳️ **GitHub has been hijacked...**  
-***Please wait while we fight to restore control.***
+<br clear="left"/>
 
 ---
 
-⚠️ **CAUTION:** You are not authorized to view this profile.  
-_This page is under surveillance._
+## G I T H U B  S T A T S
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shirozy&show_icons=true&theme=tokyonight&border_color=FF4DA6&title_color=FF4DA6&icon_color=FF4DA6&text_color=AAB1C4&bg_color=00000000&card_width=220&custom_title=My%20Stats" height="140"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shirozy&layout=compact&langs_count=8&theme=tokyonight&border_color=FF4DA6&title_color=FF4DA6&text_color=AAB1C4&bg_color=00000000&card_width=220&custom_title=Most%20Used%20Languages" height="140"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Shirozy&theme=tokyonight-duo&hide_border=false&ring=FF4DA6&fire=FF4DA6&currStreakLabel=FF4DA6&dates=AAB1C4&background=00000000&sideNums=FF4DA6&card_width=220" height="140"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+##  T E C H  S T A C K &  T O O L S
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-FF4DA6?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+##  B E F O R E  Y O U  G O
+
+<div align="center">
+  <img src="oc/banner-cropped.png" width="100%" alt="OC Banner"/>
+
+  <p><em>If you like my profile, please ⭐ this repo before you fork it – arigatou! ✨</em></p>
+</div>
