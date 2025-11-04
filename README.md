@@ -11,10 +11,10 @@
 
 ```lua
 local Shirro = {
-  alias        = "Shirro",
+  alias        = "Vixiie",
   pronouns     = "he/him",
   contact      = {
-    discord  = "shirroz",
+    discord  = "vixiiemilk",
     matrix   = "@shiro:matrix.subversion.life",
     telegram = "@Dynamic155"
   },
@@ -24,16 +24,16 @@ local Shirro = {
     os        = { "Arch", "Debian", "Ubuntu", "Windows" }
   },
   fandoms      = {
-    anime  = { "No Game No Life", "Nekopara", "Charlotte" },
+    anime  = { "No Game No Life", "Nekopara", "Charlotte", Himegoto },
     manga  = { "Chainsawman", "Tokyo Ghoul" }
   },
   playlists    = {
     "I'll Sleep When I'm Dead – NightcoreMaker",
     "The Zombie Song (Nightcore) – Erenzy, vnti",
-    "Copy – Robopup",
+    "strangers once again - Tanger",
     "NASTYWERKKKK! – femtanyl"
   },
-  games        = { "Valorant", "Counter‑Strike 2", "Wuthering Waves", "AI Limit" }
+  games        = { "Valorant", "Counter‑Strike 2", "BeamNG.Drive", "DayZ" }
 }
 ```
 
@@ -79,5 +79,5 @@ local Shirro = {
 <div align="center">
   <img src="oc/banner-cropped.png" width="100%" alt="OC Banner"/>
 
-  <p><em>If you like my profile, please ⭐ this repo before you fork it – arigatou! ✨</em></p>
+  <p><em>If you like my profile, please ⭐ this repo before you fork it ✨</em></p>
 </div>
