@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated heading -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4DA6&center=true&vCenter=true&repeat=false&width=500&lines=Konnichiwa%2C+I%27m+Shirro!;Anime+%E2%99%A5%EF%B8%8F+Coding+%F0%9F%92%BB+Linux;Welcome+to+my+GitHub!" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4DA6&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I%27m+Shirro!;Anime+%E2%99%A5%EF%B8%8F+Coding+%F0%9F%92%BB+Linux;Welcome+to+my+GitHub!" alt="Typing Banner" />
 </div>
 
 ---
