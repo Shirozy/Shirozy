@@ -1,8 +1,9 @@
+<!--
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=5D8CFF&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Vixiie+%3C3;code+%2B+anime+%2B+nightcore;welcome+to+my+little+corner+of+GitHub" alt="Typing intro" />
 
-  <p>
+   <p>
     <a href="https://github.com/Shirozy">
       <img src="https://img.shields.io/badge/GitHub-Shirozy-10162F?style=for-the-badge&logo=github&logoColor=white&labelColor=5D8CFF" alt="GitHub profile badge" />
     </a>
@@ -12,12 +13,19 @@
 </div>
 
 ---
+-->
 
-## About Me
+<h1 align="center"><strong>A B O U T &nbsp; M E</h1></strong></p>
 
-<img align="right" src="oc/OC%20Cropped.png" width="220" alt="Vixiie OC full body" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=5D8CFF&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Vixiie+%3C3;code+%2B+anime+%2B+nightcore;welcome+to+my+little+corner+of+GitHub" alt="Typing intro" align="center "/>
+</div>
 
-<!-- Edit this block whenever your info changes. Keep it playful, or rewrite it completely. -->
+```zsh
+vixiie@meowlinux:~$ cat AboutMe.txt
+```
+
+<img align="left" src="oc/OC%20Cropped.png" width="220" alt="Vixiie OC full body" />
 
 ```lua
 local ABOUT_ME = {
@@ -80,7 +88,7 @@ local ABOUT_ME = {
 
 --- -->
 
-## GitHub Stats
+<h1 align="center"><strong>S T A T S</h1></strong></p>
 
 <div align="center">
   <br />
@@ -89,11 +97,9 @@ local ABOUT_ME = {
 
 ---
 
-## Current Mood Board
+<h1 align="center"><strong>M O O D &nbsp; B O A R D</h1></strong></p>
 
-<!-- Replace these with projects, screenshots, or OC lore snippets when you are ready. -->
-
-<table>
+<table align="center">
   <tr>
     <td width="33%" align="center">
       <strong>Now</strong><br />
