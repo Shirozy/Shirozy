@@ -96,8 +96,6 @@ local ABOUT_ME = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirozy&show_icons=true&theme=tokyonight&hide_border=false&border_color=5D8CFF&title_color=8FB0FF&icon_color=FF8AC8&text_color=C9D4FF&bg_color=00000000&custom_title=Vixiie%27s%20Stats" height="155" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shirozy&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=5D8CFF&title_color=8FB0FF&text_color=C9D4FF&bg_color=00000000&custom_title=Most%20Used%20Languages" height="155" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Shirozy&theme=tokyonight-duo&hide_border=false&border=5D8CFF&ring=FF8AC8&fire=FF8AC8&currStreakLabel=FF8AC8&dates=C9D4FF&background=00000000&sideNums=8FB0FF" height="155" alt="GitHub streak stats" />
 </div>
