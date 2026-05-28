@@ -1,17 +1,4 @@
-<!--
-  Cute GitHub profile template for Shirozy
-
-  Quick edit guide:
-  - Replace the text inside the ABOUT_ME Lua table with your newest info.
-  - Swap image paths if you rename files in /oc.
-  - Change Shirozy in the stats URLs if your GitHub username changes.
-  - Badge colors currently match the new OC banner: deep blue, white, and soft pink.
--->
-
 <div align="center">
-  <img src="oc/Banner%20No%20Ripple%20NO%20DESC%20TEXT.png" width="100%" alt="Vixiie OC banner" />
-
-  <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=5D8CFF&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Vixiie+%3C3;code+%2B+anime+%2B+nightcore;welcome+to+my+little+corner+of+GitHub" alt="Typing intro" />
 
@@ -126,7 +113,7 @@ local ABOUT_ME = {
 ---
 
 <div align="center">
-  <img src="oc/ocWithBackgroundAndStickers.png" width="330" alt="Vixiie OC portrait with stickers" />
+  <img src="oc/Banner%20No%20Ripple%20NO%20DESC%20TEXT.png" width="100%" alt="Vixiie OC banner" />
 
   <p><em>Thanks for visiting. Star this before you go?</em></p>
 </div>
